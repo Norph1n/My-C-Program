@@ -9,6 +9,6 @@ int main()
     scanf("%d",&r);
     s=r*r*3.14*4;
     v=(r*r*r*4*3.14)/3;
-    printf("圆的表面积是:%.2f\n圆的体积是:%.2f\n",s,v);
+    printf("球的表面积是:%.2f\n球的体积是:%.2f\n",s,v);
     return 0;
 }
